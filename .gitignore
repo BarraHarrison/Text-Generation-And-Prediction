@@ -2,3 +2,4 @@ venv/
 fake_or_real_news.csv
 .ipynb_checkpoints/
 .DS_Store
+mymodel.keras
